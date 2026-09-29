@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="goldGrad" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f3d585"/>
+      <stop offset="0.5" stop-color="#c9a227"/>
+      <stop offset="1" stop-color="#9c7a1a"/>
+    </linearGradient>
+  </defs>
+  <circle cx="32" cy="32" r="30.5" stroke="url(#goldGrad)" stroke-width="1.5"/>
+  <path d="M32 14c-3 5-3 8 0 12 3-4 3-7 0-12z" fill="url(#goldGrad)"/>
+  <path d="M14 27c5.5-1 8.3.4 10.8 4.6-5.2 1.6-8.4.7-10.8-4.6z" fill="url(#goldGrad)"/>
+  <path d="M50 27c-5.5-1-8.3.4-10.8 4.6 5.2 1.6 8.4.7 10.8-4.6z" fill="url(#goldGrad)"/>
+  <path d="M17 42c3.8-4.3 7-5 11.8-3.6-2.2 5-5.3 6.9-11.8 3.6z" fill="url(#goldGrad)"/>
+  <path d="M47 42c-3.8-4.3-7-5-11.8-3.6 2.2 5 5.3 6.9 11.8 3.6z" fill="url(#goldGrad)"/>
+  <circle cx="32" cy="33" r="5.4" fill="url(#goldGrad)"/>
+  <circle cx="32" cy="33" r="2.2" fill="#1c1a16"/>
+</svg>
